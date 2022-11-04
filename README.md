@@ -13,6 +13,7 @@ This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang
 - [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - [Polyfills](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy#readme)
+- [Husky](https://typicode.github.io/husky/)
 
 ## Getting started
 
